@@ -1,0 +1,27 @@
+.recipe{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    border: 2px solid black;
+    margin-bottom: 15px;
+    padding: 10px;
+    cursor:pointer;
+    background-color: white;
+}
+
+.selected{
+    background-color: grey;
+}
+
+.recipe__image{
+    height: 70px;
+}
+
+.recipe__data{
+    margin: auto 10px;
+}
+
+.recipe__text{
+    padding: 0;
+    margin: 0;
+}

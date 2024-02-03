@@ -1,0 +1,83 @@
+{
+  "recipes": [
+    {
+      "name": "Paella",
+      "numPeople": 4,
+      "imageUrl": "https://www.shutterstock.com/image-photo/classic-dish-spain-seafood-paella-600w-1879727512.jpg",
+      "id": "1",
+      "ingredients": [
+        {
+          "name": "Arroz",
+          "quantity": "400 grs"
+        }
+      ]
+    },
+    {
+      "name": "Tarta chocolate y galletas",
+      "numPeople": 6,
+      "imageUrl": "https://www.shutterstock.com/image-photo/homemade-chocolate-rolls-dessert-600w-368330465.jpg",
+      "ingredients": [
+        {
+          "name": "Azucar",
+          "quantity": "50 grs"
+        },
+        {
+          "name": "Leche",
+          "quantity": "200 ml"
+        },
+        {
+          "name": "Chocolate",
+          "quantity": "200 grs"
+        }
+      ],
+      "id": "2"
+    },
+    {
+      "name": "Pancake",
+      "numPeople": "4",
+      "imageUrl": "https://www.shutterstock.com/image-photo/sweet-homemade-stack-pancakes-butter-600w-791630443.jpg",
+      "ingredients": [
+        {
+          "name": "caramelo",
+          "quantity": "200ml"
+        },
+        {
+          "name": "harina",
+          "quantity": "100 grs"
+        }
+      ],
+      "id": "3"
+    },
+    {
+      "name": "Brownie",
+      "numPeople": "8",
+      "imageUrl": "https://www.shutterstock.com/image-photo/pieces-fresh-chocolate-brownie-on-600w-1893866746.jpg",
+      "ingredients": [
+        {
+          "name": "Chocolate",
+          "quantity": "400 grs"
+        }
+      ],
+      "id": "4"
+    },
+    {
+      "name": "Pollo Asado",
+      "numPeople": "4",
+      "imageUrl": "https://www.shutterstock.com/image-photo/homemade-chicken-rotisserie-thyme-lemon-600w-1574170006.jpg",
+      "ingredients": [
+        {
+          "name": "Pollo entero crudo",
+          "quantity": "1"
+        }
+      ],
+      "id": "5"
+    },
+    {
+      "id": "0d19",
+      "name": "Arroz",
+      "numPeople": "6",
+      "imageUrl": "https://www.shutterstock.com/image-photo/classic-dish-spain-seafood-paella-600w-1879727512.jpg",
+      "ingredients": []
+    }
+  ]
+}

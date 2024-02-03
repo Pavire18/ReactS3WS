@@ -1,0 +1,18 @@
+.recipe-detail__img{
+    height: 300px;
+    max-width: 450px;
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: auto;
+}
+th, td {
+    border: 1px solid black;
+    padding: 3px;
+}
+th {
+    font-weight: bold;
+}
